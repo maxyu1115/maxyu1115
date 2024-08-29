@@ -3,6 +3,7 @@ My name is Max, I'm currently working as a systems engineer. Dabbled in most are
 
 ### Table of contents(?):
 - ✨ [MeMaS](https://github.com/memas-ai/MeMaS) - A long term memory store for AI Agents
+- ✨ [llmsh and hermitd](https://github.com/maxyu1115/llmsh) - A llm-powered shell copilot. (The first one that works for generic posix shells!)
 - ✨ [Project World](https://github.com/maxyu1115/ProjectWorld) - Strategy game made with friends back in high school.
 - ✨ [OwlTorrent](https://github.com/maxyu1115/owltorrent) - A java bittorrent client implementation
 - ✨ [Thoth](https://github.com/maxyu1115/thoth) Hackathon winning project for lecture video information extraction 
